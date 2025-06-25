@@ -1,3 +1,3 @@
 # WTR
-#ууу
+# ddddddd
 ```python3 wtr.py```or
